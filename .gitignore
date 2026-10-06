@@ -1,0 +1,12 @@
+# Données DAS (trop volumineuses / pas à publier)
+data_das/
+
+# Environnement Python
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
